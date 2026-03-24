@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Streamlit
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data Files (Optional: remove if you want to track datasets)
+*.arff
+*.csv
+segmented_data.csv
+
+# IDEs
+.vscode/
+.idea/
