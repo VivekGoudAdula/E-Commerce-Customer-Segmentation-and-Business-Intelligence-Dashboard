@@ -38,4 +38,3 @@ A high-fidelity, AI-powered customer segmentation platform developed for **Data 
 The application specifically consumes **ARFF (Attribute-Relation File Format)** datasets containing transactional customer telemetry.
 
 ---
-Developed by Antigravity | Customer Intelligence v6.0
